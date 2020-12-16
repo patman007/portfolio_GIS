@@ -1,2 +1,2 @@
 # portfolio_GIS
-GIS Projects from Web Mapping and Python
+GIS Projects for Web Mapping and Python in GIS
