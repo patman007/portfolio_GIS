@@ -14,6 +14,9 @@ __pycache__/
 *.bak
 *.pptx
 *.pdf
+*.csv
+*.xls
+*.xlsx
 
 
 # Distribution / packaging
